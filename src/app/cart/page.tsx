@@ -45,7 +45,7 @@ const CartPage = () => {
         </div>
         <div className="flex justify-between">
           <span className="">Service Cost</span>
-          <span className="">$0.00</span>
+          <span className="">₹0.00</span>
         </div>
         <div className="flex justify-between">
           <span className="">Delivery Cost</span>
